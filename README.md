@@ -1,61 +1,49 @@
-### Hi, I'm Barclay Ogoke 
+# Hi, I'm Barclay Ogoke 
 
-IT Support & Operations professional with a BBA in Management and a minor in Information Systems from the University of Texas at San Antonio (UTSA).
+I'm an IT Support and Security enthusiast with a BBA in Management and a minor in Information Systems from the University of Texas at San Antonio (UTSA).
 
-I am passionate about technology, troubleshooting, and cybersecurity, and I enjoy building hands-on labs that simulate real-world IT and security environments. My goal is to continue developing practical experience in IT support, cloud administration, and security operations.
+I specialize in building hands-on IT and cybersecurity labs that simulate real-world environments in system administration, SOC operations, and security analysis.
 
-## Technical Skills
+My focus is on developing practical experience in:
+- IT Support & Help Desk Operations
+- Active Directory & Identity Management
+- SOC Analysis & Security Monitoring
+- Vulnerability Management & Risk Assessment
 
-- Windows Administration
-- Active Directory
-- Microsoft Entra ID (Azure AD)
-- Microsoft Azure
-- Networking Fundamentals
-- IT Troubleshooting
-- Help Desk Operations
-- Security Monitoring
-- Incident Response
-- PowerShell
+---
 
-## Featured Labs
+##  Featured Cybersecurity & IT Labs
 
-### SOC Fundamentals Lab
-Security monitoring, alert triage, log analysis, and incident investigation.
+### 🔍 SOC Fundamentals Lab
+Security monitoring, alert triage, log analysis, and incident investigation using SOC methodologies.
 
-### Active Directory Administration Lab
-User management, group policies, organizational units, password resets, and domain administration.
+🔗 https://github.com/Barclay321/SOC-Fundamentals-Lab
 
-### osTicket Help Desk Lab
-Ticket management, escalation procedures, incident tracking, and service desk operations.
+---
 
-### Microsoft Entra ID & Azure Administration Lab
-User provisioning, group management, MFA configuration, role assignments, and cloud identity administration.
+###  Vulnerability Management Lab
+Hands-on vulnerability scanning using Nessus to identify security weaknesses, assess risk levels, and review remediation recommendations.
 
-### Threat Hunting & SIEM Lab
-Threat hunting, KQL queries, log analysis, incident investigation, and security monitoring using SIEM tools.
+🔗 https://github.com/Barclay321/Vulnerability-Management-Lab
 
-## Certifications
+---
 
-- Google IT Support Professional Certificate
-- Microsoft IT Support Certificate
+###  Active Directory Administration Lab
+User management, group policies, organizational units, authentication, and domain administration in a Windows environment.
 
-## Education
+🔗 https://github.com/Barclay321/Active-Directory-Administration-Lab
 
-**University of Texas at San Antonio (UTSA)**
+---
 
-Bachelor of Business Administration (BBA) – Management  
-Minor in Information Systems
+## 🎯Career Focus
+- IT Support Specialist
+- Help Desk Technician
+- SOC Analyst 
+- Cybersecurity Analyst (Junior)
 
-## Career Goals
+---
 
-- IT Support
-- Help Desk
-- Support Analyst
-- SOC Analyst
-- Cybersecurity Analyst
-
-## Connect With Me
-
+## 📬 Connect With Me
 LinkedIn: www.linkedin.com/in/barclayogoke
 
 <!--
