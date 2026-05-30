@@ -1,4 +1,4 @@
-### Hi, I'm Barclay Ogoke 👋
+### Hi, I'm Barclay Ogoke 
 
 IT Support & Operations professional with a BBA in Management and a minor in Information Systems from the University of Texas at San Antonio (UTSA).
 
