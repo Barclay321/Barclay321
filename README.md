@@ -1,28 +1,29 @@
 # Hi, I'm Barclay Ogoke 
 
-I'm an IT Support and Security enthusiast with a BBA in Management and a minor in Information Systems from the University of Texas at San Antonio (UTSA).
+IT Support and Security enthusiast with a BBA in Management and a minor in Information Systems from the University of Texas at San Antonio (UTSA).
 
-I specialize in building hands-on IT and cybersecurity labs that simulate real-world environments in system administration, SOC operations, and security analysis.
+I specialize in building hands-on IT and cybersecurity labs that simulate real-world enterprise environments in system administration, security operations, and cloud identity management.
 
-My focus is on developing practical experience in:
+My focus includes:
 - IT Support & Help Desk Operations
 - Active Directory & Identity Management
-- SOC Analysis & Security Monitoring
+- SOC Analysis & Threat Detection
 - Vulnerability Management & Risk Assessment
+- Cloud Administration (Azure & Microsoft Entra ID)
 
 ---
 
 ##  Featured Cybersecurity & IT Labs
 
-### 🔍 SOC Fundamentals Lab
+###  SOC Fundamentals Lab
 Security monitoring, alert triage, log analysis, and incident investigation using SOC methodologies.
 
-🔗 https://github.com/Barclay321/SOC-Fundamentals-Lab
+https://github.com/Barclay321/SOC-Fundamentals-Lab
 
 ---
 
 ###  Vulnerability Management Lab
-Hands-on vulnerability scanning using Nessus to identify security weaknesses, assess risk levels, and review remediation recommendations.
+Hands-on vulnerability scanning using Nessus to identify security weaknesses, assess risk levels, and provide remediation recommendations.
 
 🔗 https://github.com/Barclay321/Vulnerability-Management-Lab
 
@@ -35,15 +36,30 @@ User management, group policies, organizational units, authentication, and domai
 
 ---
 
-## 🎯Career Focus
-- IT Support Specialist
-- Help Desk Technician
-- SOC Analyst 
-- Cybersecurity Analyst (Junior)
+### osTicket Help Desk Lab
+IT service desk simulation including ticket management, escalation workflows, and incident tracking.
+
+https://github.com/Barclay321/osTicket-Lab
 
 ---
 
-## 📬 Connect With Me
+###  Threat Hunting & SIEM Lab
+Threat detection, log analysis, security monitoring, and investigation using SIEM concepts and query-based analysis.
+
+ https://github.com/Barclay321/Threat-Hunting-SIEM-Lab
+
+---
+
+## Career Focus
+- IT Support Specialist  
+- Help Desk Technician  
+- SOC Analyst (Entry-Level)  
+- Cybersecurity Analyst (Junior)  
+- Security Operations Associate  
+
+---
+
+## Connect With Me
 LinkedIn: www.linkedin.com/in/barclayogoke
 
 <!--
