@@ -56,7 +56,7 @@ Minor in Information Systems
 
 ## Connect With Me
 
-LinkedIn: www.linkedin.com/in/barclayogokeHi there 👋
+LinkedIn: www.linkedin.com/in/barclayogoke
 
 <!--
 **Barclay321/Barclay321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
